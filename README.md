@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansii1234/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansii1234/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
@@ -12,6 +13,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mansii1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansii1234/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -19,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Mansii1234/Leetcode/tree/master/0724-find-pivot-index) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -46,4 +49,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mansii1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
