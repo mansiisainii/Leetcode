@@ -6,6 +6,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
+| [0697-degree-of-an-array](https://github.com/Mansii1234/Leetcode/tree/master/0697-degree-of-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansii1234/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansii1234/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
@@ -25,6 +26,7 @@
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Mansii1234/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/Mansii1234/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Mansii1234/Leetcode/tree/master/0724-find-pivot-index) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
