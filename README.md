@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Trie
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
