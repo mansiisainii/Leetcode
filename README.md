@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mansii1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -39,5 +40,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mansii1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mansii1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
