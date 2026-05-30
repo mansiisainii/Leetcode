@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0697-degree-of-an-array](https://github.com/Mansii1234/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansii1234/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansii1234/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
@@ -29,6 +30,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mansii1234/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Mansii1234/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Mansii1234/Leetcode/tree/master/0724-find-pivot-index) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -68,12 +70,15 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
