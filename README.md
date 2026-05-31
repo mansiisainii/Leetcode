@@ -69,6 +69,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mansii1234/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 ## Design
