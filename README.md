@@ -11,6 +11,7 @@
 | [0697-degree-of-an-array](https://github.com/Mansii1234/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mansii1234/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansii1234/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansii1234/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
@@ -38,6 +39,7 @@
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Mansii1234/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mansii1234/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Trie
@@ -58,6 +60,7 @@
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansii1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mansii1234/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mansii1234/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mansii1234/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mansii1234/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
