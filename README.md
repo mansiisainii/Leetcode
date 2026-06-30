@@ -31,6 +31,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Mansii1234/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mansii1234/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mansii1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Mansii1234/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
 ## Sliding Window
 |  |
 | ------- |
