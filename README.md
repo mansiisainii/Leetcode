@@ -36,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mansii1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansii1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mansii1234/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mansii1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mansii1234/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansii1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
