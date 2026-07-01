@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Mansii1234/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansii1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Mansii1234/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -34,6 +35,7 @@
 | [0027-remove-element](https://github.com/Mansii1234/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mansii1234/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +128,12 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mansii1234/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
