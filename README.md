@@ -37,6 +37,7 @@
 | [0031-next-permutation](https://github.com/Mansii1234/Leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mansii1234/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Mansii1234/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mansii1234/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mansii1234/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mansii1234/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 ## Sliding Window
