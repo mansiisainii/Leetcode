@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/Mansii1234/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mansii1234/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Mansii1234/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mansii1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Mansii1234/Leetcode/tree/master/0056-merge-intervals) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Mansii1234/Leetcode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -181,5 +183,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
