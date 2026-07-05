@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Mansii1234/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mansii1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
@@ -39,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mansii1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Mansii1234/Leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mansii1234/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mansii1234/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mansii1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
