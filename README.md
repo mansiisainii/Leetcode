@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mansii1234/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/Mansii1234/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mansii1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/Mansii1234/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mansii1234/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Mansii1234/Leetcode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/Mansii1234/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Mansii1234/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
