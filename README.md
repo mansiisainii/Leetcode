@@ -46,6 +46,7 @@
 | [0056-merge-intervals](https://github.com/Mansii1234/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mansii1234/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Mansii1234/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mansii1234/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansii1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,10 +197,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mansii1234/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mansii1234/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mansii1234/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mansii1234/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Queue
 |  |
 | ------- |
