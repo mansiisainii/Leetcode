@@ -55,6 +55,7 @@
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mansii1234/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Mansii1234/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansii1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mansii1234/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mansii1234/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansii1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mansii1234/Leetcode/tree/master/0724-find-pivot-index) |
@@ -111,6 +113,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Mansii1234/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansii1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Mansii1234/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -183,6 +186,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Mansii1234/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Union-Find
 |  |
@@ -215,4 +219,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mansii1234/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
