@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mansii1234/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Mansii1234/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Mansii1234/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Mansii1234/Leetcode/tree/master/0041-first-missing-positive) |
@@ -169,6 +170,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mansii1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 ## Counting
@@ -186,6 +188,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Mansii1234/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Union-Find
