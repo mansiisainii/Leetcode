@@ -52,6 +52,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Mansii1234/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansii1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mansii1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Mansii1234/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mansii1234/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -225,5 +226,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Mansii1234/Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
