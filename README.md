@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mansii1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mansii1234/Leetcode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansii1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Mansii1234/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -55,6 +56,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Mansii1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Mansii1234/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mansii1234/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mansii1234/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Mansii1234/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -127,6 +129,7 @@
 | [0056-merge-intervals](https://github.com/Mansii1234/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mansii1234/Leetcode/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mansii1234/Leetcode/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
