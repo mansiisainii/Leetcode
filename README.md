@@ -199,6 +199,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mansii1234/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Mansii1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -206,6 +207,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mansii1234/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Mansii1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -213,6 +215,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mansii1234/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Mansii1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Divide and Conquer
@@ -260,6 +263,7 @@
 | [0042-trapping-rain-water](https://github.com/Mansii1234/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mansii1234/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
