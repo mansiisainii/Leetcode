@@ -178,6 +178,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mansii1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 ## Bit Manipulation
@@ -196,14 +197,17 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mansii1234/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mansii1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mansii1234/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mansii1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mansii1234/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mansii1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,4 +294,8 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mansii1234/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Mansii1234/Leetcode/tree/master/0051-n-queens) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mansii1234/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
