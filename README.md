@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mansii1234/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Mansii1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Mansii1234/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Mansii1234/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mansii1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Mansii1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mansii1234/Leetcode/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mansii1234/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Mansii1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Mansii1234/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Mansii1234/Leetcode/tree/master/0231-power-of-two) |
