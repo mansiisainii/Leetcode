@@ -80,6 +80,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Mansii1234/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansii1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mansii1234/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mansii1234/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Mansii1234/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
@@ -110,6 +111,7 @@
 | [0069-sqrtx](https://github.com/Mansii1234/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Mansii1234/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mansii1234/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Mansii1234/Leetcode/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/Mansii1234/Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Mansii1234/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -172,6 +174,7 @@
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mansii1234/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mansii1234/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
