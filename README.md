@@ -162,6 +162,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mansii1234/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Mansii1234/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Mansii1234/Leetcode/tree/master/0706-design-hashmap) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -215,6 +216,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mansii1234/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
