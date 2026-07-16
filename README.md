@@ -112,6 +112,7 @@
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Mansii1234/Leetcode/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/Mansii1234/Leetcode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Mansii1234/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mansii1234/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -145,6 +146,7 @@
 | [0392-is-subsequence](https://github.com/Mansii1234/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mansii1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Mansii1234/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -327,6 +329,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Mansii1234/Leetcode/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/Mansii1234/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
