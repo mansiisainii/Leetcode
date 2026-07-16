@@ -46,6 +46,7 @@
 | [0042-trapping-rain-water](https://github.com/Mansii1234/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Mansii1234/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mansii1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mansii1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mansii1234/Leetcode/tree/master/0056-merge-intervals) |
@@ -268,4 +269,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Mansii1234/Leetcode/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mansii1234/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
