@@ -76,6 +76,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mansii1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mansii1234/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0392-is-subsequence](https://github.com/Mansii1234/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mansii1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0075-sort-colors](https://github.com/Mansii1234/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mansii1234/Leetcode/tree/master/0229-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,6 +178,7 @@
 | [0054-spiral-matrix](https://github.com/Mansii1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Mansii1234/Leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mansii1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -254,6 +259,7 @@
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mansii1234/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
