@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mansii1234/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mansii1234/Leetcode/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Mansii1234/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Mansii1234/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mansii1234/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -42,6 +43,7 @@
 | [0018-4sum](https://github.com/Mansii1234/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Mansii1234/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Mansii1234/Leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Mansii1234/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Mansii1234/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Mansii1234/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
@@ -225,6 +227,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mansii1234/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mansii1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -272,5 +275,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mansii1234/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Mansii1234/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
