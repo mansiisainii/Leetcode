@@ -70,6 +70,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansii1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mansii1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Mansii1234/Leetcode/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mansii1234/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Mansii1234/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mansii1234/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mansii1234/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -263,6 +264,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Mansii1234/Leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mansii1234/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Mansii1234/Leetcode/tree/master/0875-koko-eating-bananas) |
