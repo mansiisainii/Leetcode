@@ -46,6 +46,7 @@
 | [0242-valid-anagram](https://github.com/Mansii1234/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mansii1234/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Mansii1234/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Mansii1234/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Mansii1234/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Mansii1234/Leetcode/tree/master/0796-rotate-string) |
@@ -139,6 +140,7 @@
 | [0189-rotate-array](https://github.com/Mansii1234/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mansii1234/Leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/Mansii1234/Leetcode/tree/master/0396-rotate-function) |
+| [0415-add-strings](https://github.com/Mansii1234/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mansii1234/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Mansii1234/Leetcode/tree/master/0788-rotated-digits) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mansii1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Mansii1234/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Mansii1234/Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Mansii1234/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mansii1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
