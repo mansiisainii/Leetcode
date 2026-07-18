@@ -94,6 +94,7 @@
 | [0283-move-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mansii1234/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/Mansii1234/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Mansii1234/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Mansii1234/Leetcode/tree/master/0493-reverse-pairs) |
@@ -137,6 +138,7 @@
 | [0069-sqrtx](https://github.com/Mansii1234/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mansii1234/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mansii1234/Leetcode/tree/master/0231-power-of-two) |
+| [0396-rotate-function](https://github.com/Mansii1234/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mansii1234/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Mansii1234/Leetcode/tree/master/0788-rotated-digits) |
@@ -197,6 +199,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mansii1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Mansii1234/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Mansii1234/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Mansii1234/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mansii1234/Leetcode/tree/master/0788-rotated-digits) |
