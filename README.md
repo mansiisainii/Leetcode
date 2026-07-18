@@ -119,6 +119,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansii1234/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansii1234/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
@@ -166,6 +167,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Mansii1234/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mansii1234/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansii1234/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansii1234/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0415-add-strings](https://github.com/Mansii1234/Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Mansii1234/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mansii1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansii1234/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
