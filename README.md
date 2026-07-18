@@ -151,6 +151,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansii1234/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mansii1234/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mansii1234/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -222,6 +223,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mansii1234/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mansii1234/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mansii1234/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
