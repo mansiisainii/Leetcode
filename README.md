@@ -110,6 +110,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mansii1234/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Mansii1234/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mansii1234/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Mansii1234/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mansii1234/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mansii1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -369,6 +370,7 @@
 | ------- |
 | [0135-candy](https://github.com/Mansii1234/Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Mansii1234/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Number Theory
 |  |
 | ------- |
