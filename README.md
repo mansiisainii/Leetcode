@@ -50,6 +50,7 @@
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Mansii1234/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Mansii1234/Leetcode/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansii1234/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansii1234/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansii1234/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -362,11 +363,13 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansii1234/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mansii1234/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mansii1234/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansii1234/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -384,6 +387,7 @@
 | ------- |
 | [0135-candy](https://github.com/Mansii1234/Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansii1234/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mansii1234/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Number Theory
 |  |
