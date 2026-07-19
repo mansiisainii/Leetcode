@@ -43,6 +43,7 @@
 | [0067-add-binary](https://github.com/Mansii1234/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Mansii1234/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mansii1234/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/Mansii1234/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Mansii1234/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mansii1234/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Mansii1234/Leetcode/tree/master/0392-is-subsequence) |
@@ -140,6 +141,7 @@
 | [0067-add-binary](https://github.com/Mansii1234/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mansii1234/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mansii1234/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Mansii1234/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Mansii1234/Leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/Mansii1234/Leetcode/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/Mansii1234/Leetcode/tree/master/0415-add-strings) |
@@ -323,6 +325,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Mansii1234/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Mansii1234/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Mansii1234/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Mansii1234/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
@@ -362,6 +365,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/Mansii1234/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Mansii1234/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansii1234/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
