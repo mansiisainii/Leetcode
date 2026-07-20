@@ -124,6 +124,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansii1234/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansii1234/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Mansii1234/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
@@ -215,6 +216,7 @@
 | [0509-fibonacci-number](https://github.com/Mansii1234/Leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mansii1234/Leetcode/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/Mansii1234/Leetcode/tree/master/1025-divisor-game) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Mansii1234/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | [0054-spiral-matrix](https://github.com/Mansii1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Mansii1234/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Mansii1234/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
 | ------- |
