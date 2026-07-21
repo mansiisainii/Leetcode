@@ -114,6 +114,7 @@
 | [0875-koko-eating-bananas](https://github.com/Mansii1234/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mansii1234/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mansii1234/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/Mansii1234/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Mansii1234/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mansii1234/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Mansii1234/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -367,6 +368,7 @@
 | [0048-rotate-image](https://github.com/Mansii1234/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mansii1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/Mansii1234/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Mansii1234/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mansii1234/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
@@ -438,6 +440,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Mansii1234/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mansii1234/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/Mansii1234/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
