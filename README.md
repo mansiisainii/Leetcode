@@ -56,6 +56,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Mansii1234/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansii1234/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansii1234/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mansii1234/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
 | ------- |
@@ -461,6 +462,7 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mansii1234/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mansii1234/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Graph Theory
 |  |
 | ------- |
