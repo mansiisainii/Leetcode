@@ -57,6 +57,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mansii1234/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mansii1234/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mansii1234/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mansii1234/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansii1234/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansii1234/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mansii1234/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mansii1234/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
@@ -358,6 +360,7 @@
 | [0493-reverse-pairs](https://github.com/Mansii1234/Leetcode/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Mansii1234/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansii1234/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mansii1234/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -451,6 +454,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Mansii1234/Leetcode/tree/master/0493-reverse-pairs) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mansii1234/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Merge Sort
 |  |
 | ------- |
