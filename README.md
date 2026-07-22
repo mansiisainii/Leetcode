@@ -128,6 +128,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansii1234/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansii1234/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mansii1234/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Mansii1234/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mansii1234/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
@@ -204,6 +205,7 @@
 | [0443-string-compression](https://github.com/Mansii1234/Leetcode/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mansii1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/Mansii1234/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Mansii1234/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -375,6 +377,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Mansii1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/Mansii1234/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Mansii1234/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Mansii1234/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mansii1234/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
