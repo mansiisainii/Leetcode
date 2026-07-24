@@ -102,6 +102,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Mansii1234/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mansii1234/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mansii1234/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mansii1234/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Mansii1234/Leetcode/tree/master/0493-reverse-pairs) |
@@ -242,6 +243,7 @@
 | [0229-majority-element-ii](https://github.com/Mansii1234/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mansii1234/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansii1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mansii1234/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mansii1234/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mansii1234/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mansii1234/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -419,6 +421,7 @@
 | ------- |
 | [0135-candy](https://github.com/Mansii1234/Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Mansii1234/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mansii1234/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mansii1234/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mansii1234/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Number Theory
