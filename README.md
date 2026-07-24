@@ -131,6 +131,7 @@
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mansii1234/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mansii1234/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mansii1234/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mansii1234/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mansii1234/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mansii1234/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mansii1234/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -169,6 +170,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mansii1234/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mansii1234/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mansii1234/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mansii1234/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mansii1234/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mansii1234/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mansii1234/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -289,6 +291,7 @@
 | [0868-binary-gap](https://github.com/Mansii1234/Leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Mansii1234/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mansii1234/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mansii1234/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -484,6 +487,7 @@
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mansii1234/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mansii1234/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mansii1234/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Graph Theory
 |  |
 | ------- |
